@@ -1,3 +1,4 @@
+<!-- 複数のファイルの追加 -->
 <!DOCTYPE html>
 <html lang="ja">
 <head>
