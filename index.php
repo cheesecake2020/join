@@ -1,6 +1,7 @@
 <?php
 //Gitの練習
 //バージョン管理
+//変更差分
 session_start();
 require('../dbconnect.php');
 
