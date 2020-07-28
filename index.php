@@ -1,5 +1,6 @@
 <?php
 //Gitの練習
+//バージョン管理
 session_start();
 require('../dbconnect.php');
 
